@@ -42,7 +42,7 @@ To run this project locally, clone the repository and open `index.html` in your 
 ```bash
 git clone https://github.com/harshasenchati/To-Do-List.git
 ```
-open Terminal in VScode and execute  following commands:
+Open Terminal in VScode and execute  following commands:
 ```
 cd To-Do-List
 ```
