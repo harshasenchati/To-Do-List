@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img src="https://github.com/harshasenchati/To-Do-List/blob/main/todo-list-demo.gif" alt="Demo GIF">
+  <img src="https://github.com/harshasenchati/To-Do-List/blob/main/todolist-record.gif">
 </div>
 
 ---
