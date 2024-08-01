@@ -41,3 +41,19 @@ To run this project locally, clone the repository and open `index.html` in your 
 
 ```bash
 git clone https://github.com/harshasenchati/To-Do-List.git
+```
+open Terminal in VScode and execute  following commands:
+```
+cd To-Do-List
+```
+to Open  this website in your browser execute this code in terminal
+```
+start index.html
+
+```
+## Usage
+After following the setup steps, you can open index.html in your browser to view and interact with the application.
+
+
+## License
+This project is licensed under the MIT License.
